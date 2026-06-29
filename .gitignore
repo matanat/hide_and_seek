@@ -1,0 +1,18 @@
+# Large model checkpoint — download from hugging face (see README)
+checkpoints/fxclass64_autoenc/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.cache/
+.claude/
+
+# Jupyter
+.ipynb_checkpoints/
+*_executed.ipynb
+
+# Editor / OS
+.DS_Store
+*.swp
